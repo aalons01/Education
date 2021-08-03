@@ -1,0 +1,5 @@
+bibliografia recomendada
+https://clearlydecoded.com/recommended-books/
+
+repositorio Git del curso
+https://github.com/jhu-ep-coursera/fullstack-course4
